@@ -19,4 +19,4 @@ JSON:
 
 the "API" you'll be using in these exercises:
 * https://github.com/HackYourFutureBelgium/practice-api/
-* https://hackyourfuturebelgiu.github.io/practice-api/
+* https://hackyourfuturebelgium.github.io/practice-api/
